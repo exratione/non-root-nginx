@@ -1,0 +1,11 @@
+# Vagrant related.
+.vagrant
+
+# Sublime Text
+*sublime-*
+
+# Nginx cache and log files.
+tmp/[a-z]*
+
+# TODO lists.
+TODO*
